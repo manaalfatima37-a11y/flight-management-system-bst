@@ -1,0 +1,2 @@
+1|60|300|260|200|230000|islamabad|geneva|pia|Scheduled
+2|720|900|780|60|20000|Lahore|Islamabad|Qatar|Scheduled
